@@ -7,4 +7,4 @@
 - Covid Santa Clara data June 5th 2022: COVID-19_cases_by_zip_code_of_residence_06_05_2022.csv
 
 ## Analysis and partition-based privacy technique
-- interval_reduction_covid_census.ipynb
+- [interval_reduction_covid_census.ipynb](https://github.com/yjparkau/privacy_vs_utility/blob/master/interval_reduction_covid_census.ipynb)
